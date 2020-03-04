@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have started learning *Laravel* during the last month. I am also in the process of learning more advanced Git techniques.
